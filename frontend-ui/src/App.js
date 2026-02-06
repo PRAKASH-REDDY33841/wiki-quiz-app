@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const API_BASE = "http://10.233.215.111:8000"; // change if needed
+const API_BASE = "https://wiki-quiz-backend-h2q8.onrender.com";// change if needed
 
 function App() {
   console.log("APP COMPONENT LOADED");
